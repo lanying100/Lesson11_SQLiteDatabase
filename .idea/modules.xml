@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson11_sqlitedatabase.iml" filepath="$PROJECT_DIR$/Lesson11_sqlitedatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw1/app.iml" filepath="$PROJECT_DIR$/hw1/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw3/hw3.iml" filepath="$PROJECT_DIR$/hw3/hw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/欢迎页sharedpreferences/欢迎页sharedpreferences.iml" filepath="$PROJECT_DIR$/欢迎页sharedpreferences/欢迎页sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/简易音乐扫描器/简易音乐扫描器.iml" filepath="$PROJECT_DIR$/简易音乐扫描器/简易音乐扫描器.iml" />
+    </modules>
+  </component>
+</project>
